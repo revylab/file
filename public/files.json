@@ -1,0 +1,30 @@
+{
+  "addon": {
+    "type": "folder",
+    "content": {
+      "mcpe": {
+        "type": "folder",
+        "content": [
+          {
+            "filename": "Minecraft Addon 1",
+            "path": "addon/mcpe/minecraft1",
+            "url": "https://drive.google.com/minecraft1.mcaddon",
+            "size": "15 MB",
+            "uploadDate": "2024-01-15"
+          },
+          {
+            "filename": "Minecraft Addon 2",
+            "path": "addon/mcpe/minecraft2",
+            "url": "https://drive.google.com/minecraft2.mcaddon",
+            "size": "25 MB",
+            "uploadDate": "2024-02-20"
+          }
+        ]
+      }
+    }
+  },
+  "mods": {
+    "type": "folder",
+    "content": {}
+  }
+}
